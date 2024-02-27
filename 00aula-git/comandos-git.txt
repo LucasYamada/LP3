@@ -1,1 +1,4 @@
 git init - iniciar repositorio
+git clone - clona repositorio remoto
+git add - adiciona o arquivo pro comitt
+git add .- adiciona todos

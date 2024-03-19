@@ -13,3 +13,5 @@ for i in range(0,compras):
         valorf = valori - valori*0.15
 
     print("O preco com desconto é:",valorf)
+
+print("Obrigado, volte sempre!")

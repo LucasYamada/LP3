@@ -2,7 +2,7 @@ valorf = 0
 valori = float(input("Digite o valor da compra:"))
 
 if(valori >= 0.01 and valori < 10.0):
-    valorf = valori - valori/25
+    valorf = valori
 elif(valori >= 10 and valori < 100):
     valorf = valori - valori/20
 elif(valori >= 100 and valori < 500):
